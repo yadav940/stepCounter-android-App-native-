@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\PROJECT\\git\\StepTrackerAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
+            "outputFile": "E:\\PROJECT\\test\\stepCounter-android-App-native-\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\vinod\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\560aee61afd22dcd72bcae62fa1bb25d\\res\\values-lt\\values-lt.xml",
