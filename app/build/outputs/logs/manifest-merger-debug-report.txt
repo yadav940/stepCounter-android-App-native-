@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\d873d7c908e9e9f03ae4dd113cb47370\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d7b296cc367ffbbc42f37cb07dc8ddc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\560aee61afd22dcd72bcae62fa1bb25d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0d6644782e7050d4755272a797d4e3e5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\5e5fa98caaaee716f76a6c9f6a6fbebc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\bc05d1adcfad3e5f00eb37932b6bcaae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\51b4e10f6f12f9ebf62d1beba2d10018\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\3cf57565a21295f81296caa4112a0af9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\8e0cd335f0f3cf0eb80a6c6836b78241\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\603a80bd4561933009240ec8eea3385a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a9dbc2690cdfc8ec18abe397633fd794\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\422d6791551edd5d31d053bbb06027bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\57e40bfd999f3203fdd14756fc6726ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\7111ee075be4f995d131d086739832a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1ebc3127b88c46b4040b76bd040f3e35\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9277a85d0679f7d897508742ca688025\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\44eecc03646684dcf514cb728e048269\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c9f80497096520a2e8d98c5a0417dc2d\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:5:5-30:19
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\d873d7c908e9e9f03ae4dd113cb47370\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\d873d7c908e9e9f03ae4dd113cb47370\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0d6644782e7050d4755272a797d4e3e5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0d6644782e7050d4755272a797d4e3e5\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:11:9-40
+activity#edu.uw.daisyi.steptracker.MainActivity
+ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:14:13-45
+	android:configChanges
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:17:13-63
+	android:theme
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:13:13-41
+activity#edu.uw.daisyi.steptracker.DebugActivity
+ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:19:9-29:20
+	android:screenOrientation
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:20:13-45
+	android:configChanges
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:23:13-63
+	android:name
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:21:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\d873d7c908e9e9f03ae4dd113cb47370\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\d873d7c908e9e9f03ae4dd113cb47370\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d7b296cc367ffbbc42f37cb07dc8ddc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d7b296cc367ffbbc42f37cb07dc8ddc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\560aee61afd22dcd72bcae62fa1bb25d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\560aee61afd22dcd72bcae62fa1bb25d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0d6644782e7050d4755272a797d4e3e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0d6644782e7050d4755272a797d4e3e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\5e5fa98caaaee716f76a6c9f6a6fbebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\5e5fa98caaaee716f76a6c9f6a6fbebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\bc05d1adcfad3e5f00eb37932b6bcaae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\bc05d1adcfad3e5f00eb37932b6bcaae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\51b4e10f6f12f9ebf62d1beba2d10018\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\51b4e10f6f12f9ebf62d1beba2d10018\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\3cf57565a21295f81296caa4112a0af9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\3cf57565a21295f81296caa4112a0af9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\8e0cd335f0f3cf0eb80a6c6836b78241\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\8e0cd335f0f3cf0eb80a6c6836b78241\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\603a80bd4561933009240ec8eea3385a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\603a80bd4561933009240ec8eea3385a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a9dbc2690cdfc8ec18abe397633fd794\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a9dbc2690cdfc8ec18abe397633fd794\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\422d6791551edd5d31d053bbb06027bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\422d6791551edd5d31d053bbb06027bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\57e40bfd999f3203fdd14756fc6726ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\57e40bfd999f3203fdd14756fc6726ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\7111ee075be4f995d131d086739832a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\7111ee075be4f995d131d086739832a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1ebc3127b88c46b4040b76bd040f3e35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1ebc3127b88c46b4040b76bd040f3e35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9277a85d0679f7d897508742ca688025\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9277a85d0679f7d897508742ca688025\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\44eecc03646684dcf514cb728e048269\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\44eecc03646684dcf514cb728e048269\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c9f80497096520a2e8d98c5a0417dc2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vinod\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c9f80497096520a2e8d98c5a0417dc2d\AndroidManifest.xml:20:5-44
+INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECT\git\StepTrackerAndroid\app\src\main\AndroidManifest.xml
